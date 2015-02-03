@@ -32,7 +32,7 @@
         android:layout_width="wrap_content"
         android:textColor="#ecca12bd"
         android:layout_below="@+id/added_textview_from_master"
-        android:textSize="25sp"
+        android:textSize="30sp"
         android:layout_marginTop="10dp"
         android:layout_height="wrap_content"
         android:id="@+id/added_textview_from_new_branch" />
