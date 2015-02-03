@@ -16,4 +16,11 @@
         android:layout_height="wrap_content"
         android:id="@+id/my_Textview" />
 
+    <TextView
+        android:text="Fragment branch new textview"
+        android:layout_width="wrap_content"
+        android:textColor="#ff4074cc"
+        android:textSize="20sp"
+        android:layout_height="wrap_content"
+        android:id="@+id/new_fragment_branch_textview" />
 </RelativeLayout>
