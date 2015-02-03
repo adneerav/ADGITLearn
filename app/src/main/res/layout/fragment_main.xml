@@ -15,11 +15,14 @@
         android:textSize="20sp"
         android:layout_height="wrap_content"
         android:id="@+id/my_Textview" />
+
     <TextView
         android:text="Added TextView From Master Branch"
         android:layout_width="wrap_content"
-        android:textColor="#ecca8b1d" android:layout_below="@+id/my_Textview"
-        android:textSize="25sp" android:layout_marginTop="10dp"
+        android:textColor="#ecca8b1d"
+        android:layout_below="@+id/my_Textview"
+        android:textSize="25sp"
+        android:layout_marginTop="10dp"
         android:layout_height="wrap_content"
         android:id="@+id/added_textview_from_master" />
 </RelativeLayout>
